@@ -17,7 +17,7 @@ void call(Map pipelineParams) {
                     allOf {
                         // Branch Event: Nornal Flow
                         anyOf {
-                            branch 'main'
+                            branch 'develop'
                             branch 'PR-*'
                         }
                     }
