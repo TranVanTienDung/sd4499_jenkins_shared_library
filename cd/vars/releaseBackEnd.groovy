@@ -2,10 +2,10 @@
 void call() {
     String name = "backend"
     String buildFolder = "backend"
-    String demoRegistry = "386785551208.dkr.ecr.us-east-1.amazonaws.com"
-    String awsRegion = "us-east-1"
+    String demoRegistry = "386785551208.dkr.ecr.us-east-2.amazonaws.com"
+    String awsRegion = "us-east-2"
     String eksName = "practical-devops-sd4499-eks"
-    String ecrRegistryUrl = "https://386785551208.dkr.ecr.us-east-1.amazonaws.com"
+    String ecrRegistryUrl = "https://386785551208.dkr.ecr.us-east-2.amazonaws.com"
     String awsCredential = 'aws-credentials'
 
 //========================================================================

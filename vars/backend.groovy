@@ -4,9 +4,9 @@ void call() {
     String buildFolder = "backend"
     String demoImage = "node"
     String baseTag = "lts-buster"
-    String repoRegistry = "386785551208.dkr.ecr.us-east-1.amazonaws.com"
-    String awsRegion = "us-east-1"
-    String ecrRegistryUrl = "https://386785551208.dkr.ecr.us-east-1.amazonaws.com"
+    String repoRegistry = "386785551208.dkr.ecr.us-east-2.amazonaws.com"
+    String awsRegion = "us-east-2"
+    String ecrRegistryUrl = "https://386785551208.dkr.ecr.us-east-2.amazonaws.com"
 
 //========================================================================
 //========================================================================
